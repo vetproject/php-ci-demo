@@ -3,7 +3,7 @@
         'name' => 'user/php-ci-demo',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'fb5f278fa55b8cf193d4026586ae2b98352d91cc',
+        'reference' => 'cc0e529e24ef84c2c08f39dd0e2196b4826a0bf1',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -256,7 +256,7 @@
         'user/php-ci-demo' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'fb5f278fa55b8cf193d4026586ae2b98352d91cc',
+            'reference' => 'cc0e529e24ef84c2c08f39dd0e2196b4826a0bf1',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
