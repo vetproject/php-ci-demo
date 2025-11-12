@@ -30,11 +30,11 @@ jobs:
     if: github.ref == 'refs/heads/dev'
     steps:
       - name: Simulate staging deployment
-        run: echo "Deploying to STAGING server..."
+        run: echo "🚀 Deploying to STAGING server..."
 
   deploy-production:
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/main'
     steps:
       - name: Simulate production deployment
-        run: echo "Deploying to PRODUCTION server..."
+        run: echo "🚀 Deploying to PRODUCTION server..."
